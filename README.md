@@ -2,7 +2,10 @@
 
 Condition for rendering scaled images via css
 
-## Code Render
+## Preview
+
+<img width="572" src="https://raw.githubusercontent.com/viniciusgrando/scallingdown-css-render/master/bandaf.png" alt="Demo"> 
+## Code
 
 ``` html
 image-rendering: -moz-crisp-edges;         /* Firefox */
